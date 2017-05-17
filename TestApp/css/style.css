@@ -1,0 +1,59 @@
+.head-elem {
+	display: inline-block;
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 5px;
+	width: 110px;
+}
+
+.list-elem {
+	display: inline-block;
+	padding: 5px;
+	width: 110px;
+	border: 1px solid white;
+}
+
+.form-block {
+	border: 1px solid black;
+	width: 35%;
+	padding: 10px;
+}
+
+.form {
+	border: 1px solid black;
+	border-radius: 10px;
+	text-align: center;
+}
+
+.button {
+	padding: 7px;
+	border: 1px solid black;
+	border-radius: 10px;
+	font-size: 12pt;
+	background-color: white;
+}
+
+.button:hover {
+	background-color: gray;
+}
+
+.form-elem {
+	margin-bottom: 10px;
+}
+
+.currentPage {
+	border: 2px solid black;
+}
+
+.page:hover {
+	border: 2px solid black;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
